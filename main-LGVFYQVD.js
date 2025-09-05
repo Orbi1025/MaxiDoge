@@ -56595,11 +56595,11 @@ var QP = (() => {
         (this.footerLinks = [
           {
             title: "footer_navigation.cookies",
-            link: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+            link: "https://www.dextools.io/app/en/ether/pair-explorer/0x9f8b00407e5095cf0af0fe9688384472293d1a19",
           },
           {
             title: "footer_navigation.privacy",
-            link: "https://dexscreener.com/ethereum/0xcomingsoon",
+            link: "https://dexscreener.com/ethereum/0x9f8b00407e5095cf0af0fe9688384472293d1a19",
           },
         ]),
         (this.subscription = this.translate.onLangChange.subscribe((i) => {
